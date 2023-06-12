@@ -1,0 +1,31 @@
+{
+  "trainerName": "pacco",
+  "team": [
+    {
+      "_id": "6444a2b7f79cd83dd0606a50",
+      "Nome": "gengar",
+      "Tipo": [
+        "ghost",
+        "poison"
+      ],
+      "Status": [
+        "hp : 60",
+        "attack : 65",
+        "defense : 60",
+        "special-attack : 130",
+        "special-defense : 75",
+        "speed : 110"
+      ],
+      "NumeroDex": 94,
+      "Altura": 15,
+      "Peso": 405,
+      "Moves": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+      ],
+      "__v": 0
+    }
+  ]
+}
